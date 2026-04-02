@@ -1,0 +1,12 @@
+# Tell GitHub Linguist to ignore platform-specific and generated files
+# so Dart is correctly detected as the primary language.
+
+rimarasa/android/** linguist-vendored
+rimarasa/ios/** linguist-vendored
+rimarasa/windows/** linguist-vendored
+rimarasa/linux/** linguist-vendored
+rimarasa/macos/** linguist-vendored
+rimarasa/web/** linguist-vendored
+
+*.g.dart linguist-generated
+*.freezed.dart linguist-generated
