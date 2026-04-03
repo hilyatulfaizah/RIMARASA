@@ -36,7 +36,7 @@ Please refer to `DOCUMENTATION.md` for full details.
 ---
 ## Project Structure
 
-```id="e1m9zp"
+```
 lib/
 ├── main.dart
 ├── home_screen.dart
@@ -54,19 +54,10 @@ lib/
 
 ---
 
-## Getting Started
+## Preview
 
-### Prerequisites
 
-- Flutter SDK ≥ 3.4.3  
-- Dart ≥ 3.4.3  
-- Android Studio or VS Code with Flutter extension  
-- (Optional) API key for AI backend
 
-### Installation
+https://github.com/user-attachments/assets/518d9fc4-2a7e-4ad1-a789-b6a7a6779f22
 
-```bash
-git clone <repo-url>
-cd RimaRasa
-flutter pub get
-flutter run
+
